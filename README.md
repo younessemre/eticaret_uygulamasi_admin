@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Ticaret&Uygulaması%20Admin%20Paneli&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Ticaret Uygulaması%20Admin%20Paneli&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
   
   <p>
     <i>Ürün ekleme, stok takibi ve sipariş yönetiminin yapıldığı merkez.</i>
