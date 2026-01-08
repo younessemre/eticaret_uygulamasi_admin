@@ -1,13 +1,16 @@
-# 🛠️ E-Commerce Admin Dashboard (Yönetici Paneli)
+<div align="center">
 
-Bu proje, E-Ticaret ekosisteminin **Yönetim Merkezi (Back-Office)** ayağıdır. İşletme sahibinin envanterini yönetmesi, siparişleri takip etmesi ve ürün kataloğunu güncellemesi için geliştirilmiştir.
+  <p>
+    Bu panel, E-Ticaret ekosisteminin <b>Yönetim Merkezi (Back-Office)</b> ayağıdır.<br>
+    Burada yapılan tüm değişiklikler anlık olarak Müşteri Uygulamasına yansır.
+  </p>
 
-> **🔗 Ekosistem Bağlantısı:**
-> Bu panelde yapılan tüm değişiklikler (Ürün ekleme, fiyat güncelleme vb.) anlık olarak **Müşteri Uygulaması**'na yansır.
->
-> 📱 **Müşteri (User) Uygulamasını İncelemek İçin Tıklayın:**
-> [![Client App](https://img.shields.io/badge/Müşteri_Uygulamasına_Git-Blue?style=for-the-badge&logo=flutter)](BURAYA_MUSTERI_UYGULAMASI_LINKI)
-
+  <a href="BURAYA_MUSTERI_UYGULAMASI_LINKI">
+    <img src="https://img.shields.io/badge/📱_Müşteri_Uygulamasını_İncele-Tıkla_ve_Git-2ea44f?style=for-the-badge&logo=flutter&logoColor=white&color=0D47A1" height="50" />
+  </a>
+  
+</div>
+<hr>
 ---
 
 ## 💻 Yönetim Paneli Ekranları
