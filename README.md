@@ -21,7 +21,7 @@ Panel, verimlilik ve hızlı işlem yapabilme üzerine tasarlanmıştır.
 
 | 📦 Ürün Kataloğu & Arama | 📋 Sipariş Takibi |
 |:---:|:---:|
-| ![All Products](3.jpeg) | ![Orders](4.jpeg) |
+| ![3](https://github.com/user-attachments/assets/bef1404f-ea81-4012-9ea1-d4e7eeb836cd) | ![4](https://github.com/user-attachments/assets/66f5cd06-f17e-4d5b-afb0-b60e95106096) |
 | *Canlı arama, filtreleme ve ürün silme* | *Gelen siparişlerin listesi ve detayları* |
 
 ---
@@ -55,33 +55,3 @@ Tıpkı müşteri uygulamasında olduğu gibi, bu projede de **Clean Architectur
 * `services/`: Global fonksiyonlar ve Firebase yardımcı metodları.
 * `providers/`: Ürün ve Sipariş verilerinin yönetildiği mantıksal katman.
 * `models/`: Veri güvenliği için oluşturulmuş nesne modelleri.
-
-## 🚀 Kurulum
-
-1.  Repoyu klonlayın:
-    ```bash
-    git clone [https://github.com/KULLANICI_ADIN/ecommerce-admin.git](https://github.com/KULLANICI_ADIN/ecommerce-admin.git)
-    ```
-2.  Paketleri yükleyin:
-    ```bash
-    flutter pub get
-    ```
-3.  **Firebase Ayarı:** Aynı Firebase projesine ait `google-services.json` dosyasını `android/app` klasörüne ekleyin (Müşteri uygulamasıyla aynı veritabanını kullanmalıdır).
-4.  Başlatın:
-    ```bash
-    flutter run
-    ```
-
----
-*Geliştirici: [Senin Adın]*
-
-
-
-
-
-
-
-
-
-
-
