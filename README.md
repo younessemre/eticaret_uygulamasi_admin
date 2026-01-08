@@ -6,7 +6,7 @@ Bu proje, E-Ticaret ekosisteminin **Yönetim Merkezi (Back-Office)** ayağıdır
 > Bu panelde yapılan tüm değişiklikler (Ürün ekleme, fiyat güncelleme vb.) anlık olarak **Müşteri Uygulaması**'na yansır.
 >
 > 📱 **Müşteri (User) Uygulamasını İncelemek İçin Tıklayın:**
-> [![Client App](https://img.shields.io/badge/Müşteri_Uygulamasına_Git-Blue?style=for-the-badge&logo=flutter)](https://github.com/younessemre/eticaret_uygulamasi)
+> [![Client App](https://img.shields.io/badge/Müşteri_Uygulamasına_Git-Blue?style=for-the-badge&logo=flutter)](BURAYA_MUSTERI_UYGULAMASI_LINKI)
 
 ---
 
@@ -16,16 +16,13 @@ Panel, verimlilik ve hızlı işlem yapabilme üzerine tasarlanmıştır.
 
 | 📊 Ana Kontrol Paneli (Dashboard) | ➕ Ürün Ekleme & Düzenleme |
 |:---:|:---:|
-| https://github.com/user-attachments/assets/dfd666d4-e41d-4136-b879-171ed19fa091 | https://github.com/user-attachments/assets/c0ce0417-1e21-4879-ab66-6e79a5a0009e
- |
+| ![1](https://github.com/user-attachments/assets/0687816b-cbf3-4cf5-adf1-266be76b3753) | ![2](https://github.com/user-attachments/assets/d3b9f7b8-85e3-4a8b-bf14-950fb0abb92c) |
 | *Hızlı erişim menüsü ve genel bakış* | *Görsel yükleme, stok ve fiyat giriş formu* |
 
 | 📦 Ürün Kataloğu & Arama | 📋 Sipariş Takibi |
 |:---:|:---:|
 | ![All Products](3.jpeg) | ![Orders](4.jpeg) |
 | *Canlı arama, filtreleme ve ürün silme* | *Gelen siparişlerin listesi ve detayları* |
-
-![Uploading 1.jpeg…]()
 
 ---
 
@@ -77,3 +74,14 @@ Tıpkı müşteri uygulamasında olduğu gibi, bu projede de **Clean Architectur
 
 ---
 *Geliştirici: [Senin Adın]*
+
+
+
+
+
+
+
+
+
+
+
