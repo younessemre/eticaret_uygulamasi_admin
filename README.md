@@ -6,7 +6,7 @@
     <i>Ürün ekleme, stok takibi ve sipariş yönetiminin yapıldığı merkez.</i>
   </p>
 
-  <a href="BURAYA_MUSTERI_UYGULAMASI_LINKI">
+  <a href="https://github.com/younessemre/eticaret_uygulamasi">
     <img src="https://img.shields.io/badge/🚀_Müşteri_Uygulamasına_Git-Linear_Gradient-FF7043?style=for-the-badge&logo=flutter&logoColor=white&color=black&labelColor=FF7043" height="45">
   </a>
   <br><br>
