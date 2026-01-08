@@ -1,16 +1,16 @@
 <div align="center">
-
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Commerce%20Admin%20Panel&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
+  
   <p>
-    Bu panel, E-Ticaret ekosisteminin <b>Yönetim Merkezi (Back-Office)</b> ayağıdır.<br>
-    Burada yapılan tüm değişiklikler anlık olarak Müşteri Uygulamasına yansır.
+    <i>Ürün ekleme, stok takibi ve sipariş yönetiminin yapıldığı merkez.</i>
   </p>
 
   <a href="BURAYA_MUSTERI_UYGULAMASI_LINKI">
-    <img src="https://img.shields.io/badge/📱_Müşteri_Uygulamasını_İncele-Tıkla_ve_Git-2ea44f?style=for-the-badge&logo=flutter&logoColor=white&color=0D47A1" height="50" />
+    <img src="https://img.shields.io/badge/🚀_Müşteri_Uygulamasına_Git-Linear_Gradient-FF7043?style=for-the-badge&logo=flutter&logoColor=white&color=black&labelColor=FF7043" height="45">
   </a>
-  
+  <br><br>
 </div>
-<hr>
 ---
 
 ## 💻 Yönetim Paneli Ekranları
